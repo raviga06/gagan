@@ -4,7 +4,7 @@ public class Login {
 		
 		int i;
 
-		for(i=1;i<=24;i++) {
+		for(i=1;i<=27;i++) {
 			System.out.println("Number: " + i);
 		}
 	}
